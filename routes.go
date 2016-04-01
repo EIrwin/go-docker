@@ -32,7 +32,7 @@ var routes = Routes{
     Route{
         "Ping",
         "GET",
-        "/tracking/ping",
+        "/ping",
         Ping,
     },
 }
